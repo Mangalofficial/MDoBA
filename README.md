@@ -1,16 +1,19 @@
 # MDoBA
 
-A new Flutter project.
+A Mobile Docker Based Application [MDoBA].
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+In this project I've created an Android application based on `Docker` that will help you to learn the basics of docker and at the same time it will also provide an interface for the handsON.
+- `Landing screen`
 
-A few resources to get you started if this is your first Flutter project:
+                                               <img src="assets/Docker home.jpg" width="200"> 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+#### This app will let you to connect to the host server where your `API (cgi-bin)` is configured and will fetch the output of the desired command.
+- `API Interface`
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+                                               <img src="assets/connect to server.jpg" width="200"> <img src="assets/input command.jpg" width="200"> <img src="assets/output.jpg" width="200"> 
+                                               
+- `About me` 
+
+                                               <img src="assets/AppDrawer.jpg" width="200"> 
